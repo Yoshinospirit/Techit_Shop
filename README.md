@@ -19,10 +19,7 @@
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/shop-homepage/)
-* Install via npm: `npm i startbootstrap-shop-homepage`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-shop-homepage)
+* [Download the latest release above](https://github.com/Yoshinospirit/Techit_Shop/)
 
 ## Usage
 
